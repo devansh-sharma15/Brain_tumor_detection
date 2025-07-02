@@ -1,1 +1,1 @@
-# Brain_tumor_detection
+# Advance_Brain_Tumor_Classification
