@@ -26,14 +26,23 @@ no/ – Images without tumor
 📦 Ensure your dataset is structured as:
 
 Brain Tumor Data/
+
 │
+
 ├── yes/
+
 │   ├── image1.jpg
+
 │   ├── ...
+
 │
+
 └── no/
+
     ├── image1.jpg
+    
     ├── ...
+    
 🛠️ Tech Stack
 Python
 
@@ -70,7 +79,7 @@ The notebook includes functionality to upload and test custom MRI images for tum
 Clone the repository:
 
 
-git clone https://github.com/yourusername/brain-tumor-classification.git
+git clone https://github.com/devansh-sharma15/Brain_tumor_detection.git
 cd brain-tumor-classification
 Install dependencies:
 
